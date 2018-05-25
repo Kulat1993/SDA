@@ -1,5 +1,7 @@
-import Kaczki.DzikaKaczka;
-import Kaczki.Kaczka;
+package Kaczki;
+
+import Kaczki.KaczkiBuilder.DzikaKaczka;
+import Kaczki.KaczkiBuilder.Kaczka;
 
 public class Main {
     public static void main(String[] args) {

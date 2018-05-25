@@ -1,7 +1,7 @@
-package Kaczki;
+package Kaczki.KaczkiBuilder;
 
-import Kwakanie.Kwacz;
-import Latanie.LatamBoMamSkrzydla;
+import Kaczki.Kwakanie.Kwacz;
+import Kaczki.Latanie.LatamBoMamSkrzydla;
 
 public class DzikaKaczka extends Kaczka {
 

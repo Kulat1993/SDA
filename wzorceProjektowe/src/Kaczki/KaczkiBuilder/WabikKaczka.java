@@ -1,7 +1,7 @@
-package Kaczki;
+package Kaczki.KaczkiBuilder;
 
-import Kwakanie.NieKwacz;
-import Latanie.NieLatam;
+import Kaczki.Kwakanie.NieKwacz;
+import Kaczki.Latanie.NieLatam;
 
 public class WabikKaczka extends Kaczka {
 

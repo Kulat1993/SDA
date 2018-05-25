@@ -1,7 +1,7 @@
-package Kaczki;
+package Kaczki.KaczkiBuilder;
 
-import Kwakanie.Piszcz;
-import Latanie.NieLatam;
+import Kaczki.Kwakanie.Piszcz;
+import Kaczki.Latanie.NieLatam;
 
 public class GumowaKaczka extends Kaczka {
 
