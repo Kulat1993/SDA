@@ -1,7 +1,7 @@
-package Kaczki.KaczkiBuilder;
+package Strategy.ducks.KaczkiBuilder;
 
-import Kaczki.Kwakanie.Kwacz;
-import Kaczki.Latanie.LatamBoMamSkrzydla;
+import Strategy.ducks.Kwakanie.Kwacz;
+import Strategy.ducks.Latanie.LatamBoMamSkrzydla;
 
 public class PlaskonosaKaczka extends Kaczka {
 

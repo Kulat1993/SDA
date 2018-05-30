@@ -1,4 +1,4 @@
-package Kaczki.Latanie;
+package Strategy.ducks.Latanie;
 
 public interface LatanieInterfejs {
 

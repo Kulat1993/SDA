@@ -1,4 +1,4 @@
-package Kaczki.Kwakanie;
+package Strategy.ducks.Kwakanie;
 
 public class Kwacz implements KwakanieInterfejs {
 

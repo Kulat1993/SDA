@@ -1,7 +1,7 @@
-package Kaczki.KaczkiBuilder;
+package Strategy.ducks.KaczkiBuilder;
 
-import Kaczki.Kwakanie.NieKwacz;
-import Kaczki.Latanie.NieLatam;
+import Strategy.ducks.Kwakanie.NieKwacz;
+import Strategy.ducks.Latanie.NieLatam;
 
 public class WabikKaczka extends Kaczka {
 

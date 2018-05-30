@@ -1,7 +1,7 @@
-package Kaczki;
+package Strategy.ducks;
 
-import Kaczki.KaczkiBuilder.DzikaKaczka;
-import Kaczki.KaczkiBuilder.Kaczka;
+import Strategy.ducks.KaczkiBuilder.DzikaKaczka;
+import Strategy.ducks.KaczkiBuilder.Kaczka;
 
 public class Main {
     public static void main(String[] args) {

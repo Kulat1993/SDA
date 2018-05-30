@@ -1,7 +1,7 @@
-package Kaczki.KaczkiBuilder;
+package Strategy.ducks.KaczkiBuilder;
 
-import Kaczki.Kwakanie.KwakanieInterfejs;
-import Kaczki.Latanie.LatanieInterfejs;
+import Strategy.ducks.Kwakanie.KwakanieInterfejs;
+import Strategy.ducks.Latanie.LatanieInterfejs;
 
 public class Kaczka {
 

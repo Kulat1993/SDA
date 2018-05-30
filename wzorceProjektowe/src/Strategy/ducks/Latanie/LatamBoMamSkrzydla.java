@@ -1,4 +1,4 @@
-package Kaczki.Latanie;
+package Strategy.ducks.Latanie;
 
 public class LatamBoMamSkrzydla implements LatanieInterfejs {
 
